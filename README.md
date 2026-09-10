@@ -5,7 +5,7 @@
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
   <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-IT-Asset-Management/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-IT-Asset-Management?style=flat-square&logo=github" alt="GitHub Stars"/></a>
+  <a href="https://github.com/ishandutta2007/Awesome-IT-Asset-Management/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-IT-Asset-Management?style=flat-square&logo=github" alt="GitHub_Stars"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-IT-Asset-Management/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-IT-Asset-Management?style=flat-square&logo=github" alt="GitHub Forks"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-IT-Asset-Management/pulls"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" alt="PRs Welcome"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-IT-Asset-Management/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square" alt="License"/></a>
@@ -64,43 +64,43 @@
 
 *Open-source ITAM solutions ordered descending by **GitHub Star Count**.*
 
-- **[NetBox](https://github.com/netbox-community/netbox)** [![GitHub stars](https://img.shields.io/github/stars/netbox-community/netbox?style=social&color=white)](https://github.com/netbox-community/netbox/stargazers)  
+- **[NetBox](https://github.com/netbox-community/netbox)** [![GitHub_Stars](https://img.shields.io/github/stars/netbox-community/netbox?style=social&color=white)](https://github.com/netbox-community/netbox/stargazers)  
   🌐 *The premier open-source Infrastructure Resource Modeling (IRM) and Data Center Infrastructure Management (DCIM) tool designed as a network source of truth.*
 
-- **[Snipe-IT](https://github.com/grokability/snipe-it)** [![GitHub stars](https://img.shields.io/github/stars/grokability/snipe-it?style=social&color=white)](https://github.com/grokability/snipe-it/stargazers)  
+- **[Snipe-IT](https://github.com/grokability/snipe-it)** [![GitHub_Stars](https://img.shields.io/github/stars/grokability/snipe-it?style=social&color=white)](https://github.com/grokability/snipe-it/stargazers)  
   💻 *Industry-leading open-source IT asset and software license management system (AGPL) — tracks hardware lifecycles, licenses, accessories, consumables, and checkout workflows.*
 
-- **[InvenTree](https://github.com/inventree/InvenTree)** [![GitHub stars](https://img.shields.io/github/stars/inventree/InvenTree?style=social&color=white)](https://github.com/inventree/InvenTree/stargazers)  
+- **[InvenTree](https://github.com/inventree/InvenTree)** [![GitHub_Stars](https://img.shields.io/github/stars/inventree/InvenTree?style=social&color=white)](https://github.com/inventree/InvenTree/stargazers)  
   📦 *Highly versatile open-source inventory and component management system featuring stock tracking, part lifecycles, and supplier integrations.*
 
-- **[GLPI](https://github.com/glpi-project/glpi)** [![GitHub stars](https://img.shields.io/github/stars/glpi-project/glpi?style=social&color=white)](https://github.com/glpi-project/glpi/stargazers)  
+- **[GLPI](https://github.com/glpi-project/glpi)** [![GitHub_Stars](https://img.shields.io/github/stars/glpi-project/glpi?style=social&color=white)](https://github.com/glpi-project/glpi/stargazers)  
   🛠️ *Comprehensive open-source ITSM & ITAM platform (GPL) uniting full asset inventory, CMDB, helpdesk ticketing, and financial management in a single suite.*
 
-- **[Ralph](https://github.com/allegro/ralph)** [![GitHub stars](https://img.shields.io/github/stars/allegro/ralph?style=social&color=white)](https://github.com/allegro/ralph/stargazers)  
+- **[Ralph](https://github.com/allegro/ralph)** [![GitHub_Stars](https://img.shields.io/github/stars/allegro/ralph?style=social&color=white)](https://github.com/allegro/ralph/stargazers)  
   🏢 *Data-center-oriented asset management and DCIM system (Apache 2.0) built for tracking physical server hardware, racks, and data center assets.*
 
-- **[Nautobot](https://github.com/nautobot/nautobot)** [![GitHub stars](https://img.shields.io/github/stars/nautobot/nautobot?style=social&color=white)](https://github.com/nautobot/nautobot/stargazers)  
+- **[Nautobot](https://github.com/nautobot/nautobot)** [![GitHub_Stars](https://img.shields.io/github/stars/nautobot/nautobot?style=social&color=white)](https://github.com/nautobot/nautobot/stargazers)  
   🤖 *Network Source of Truth and Network Automation Platform with powerful extensible CMDB and device inventory data models.*
 
-- **[PartKeepr](https://github.com/partkeepr/PartKeepr)** [![GitHub stars](https://img.shields.io/github/stars/partkeepr/PartKeepr?style=social&color=white)](https://github.com/partkeepr/PartKeepr/stargazers)  
+- **[PartKeepr](https://github.com/partkeepr/PartKeepr)** [![GitHub_Stars](https://img.shields.io/github/stars/partkeepr/PartKeepr?style=social&color=white)](https://github.com/partkeepr/PartKeepr/stargazers)  
   🏷️ *Open-source component inventory and electronic asset tracking system designed for engineering teams, labs, and IT parts stockrooms.*
 
-- **[iTop](https://github.com/Combodo/iTop)** [![GitHub stars](https://img.shields.io/github/stars/Combodo/iTop?style=social&color=white)](https://github.com/Combodo/iTop/stargazers)  
+- **[iTop](https://github.com/Combodo/iTop)** [![GitHub_Stars](https://img.shields.io/github/stars/Combodo/iTop?style=social&color=white)](https://github.com/Combodo/iTop/stargazers)  
   📐 *Extensible web-based open-source CMDB and IT Service Management tool designed to navigate configuration item dependencies and asset relationships.*
 
-- **[RackTables](https://github.com/RackTables/racktables)** [![GitHub stars](https://img.shields.io/github/stars/RackTables/racktables?style=social&color=white)](https://github.com/RackTables/racktables/stargazers)  
+- **[RackTables](https://github.com/RackTables/racktables)** [![GitHub_Stars](https://img.shields.io/github/stars/RackTables/racktables?style=social&color=white)](https://github.com/RackTables/racktables/stargazers)  
   🗄️ *Dedicated datacenter and server-room asset management solution for documenting rack spaces, patch cords, network devices, and IP addresses.*
 
-- **[GLPI Agent](https://github.com/glpi-project/glpi-agent)** [![GitHub stars](https://img.shields.io/github/stars/glpi-project/glpi-agent?style=social&color=white)](https://github.com/glpi-project/glpi-agent/stargazers)  
+- **[GLPI Agent](https://github.com/glpi-project/glpi-agent)** [![GitHub_Stars](https://img.shields.io/github/stars/glpi-project/glpi-agent?style=social&color=white)](https://github.com/glpi-project/glpi-agent/stargazers)  
   🔍 *Modern, multi-platform agent for automated hardware discovery, network scanning, software inventory, and remote deployment paired with GLPI.*
 
-- **[OCS Inventory Server](https://github.com/OCSInventory-NG/OCSInventory-Server)** [![GitHub stars](https://img.shields.io/github/stars/OCSInventory-NG/OCSInventory-Server?style=social&color=white)](https://github.com/OCSInventory-NG/OCSInventory-Server/stargazers)  
+- **[OCS Inventory Server](https://github.com/OCSInventory-NG/OCSInventory-Server)** [![GitHub_Stars](https://img.shields.io/github/stars/OCSInventory-NG/OCSInventory-Server?style=social&color=white)](https://github.com/OCSInventory-NG/OCSInventory-Server/stargazers)  
   🛰️ *Automated asset discovery and inventory server collecting detailed hardware specifications, BIOS data, and software installations across network endpoints.*
 
-- **[openDCIM](https://github.com/opendcim/openDCIM)** [![GitHub stars](https://img.shields.io/github/stars/opendcim/openDCIM?style=social&color=white)](https://github.com/opendcim/openDCIM/stargazers)  
+- **[openDCIM](https://github.com/opendcim/openDCIM)** [![GitHub_Stars](https://img.shields.io/github/stars/opendcim/openDCIM?style=social&color=white)](https://github.com/opendcim/openDCIM/stargazers)  
   ⚡ *Free, open-source Data Center Infrastructure Management application designed to track power loads, physical rack layouts, and facility floor plans.*
 
-- **[FusionInventory Agent](https://github.com/fusioninventory/fusioninventory-agent)** [![GitHub stars](https://img.shields.io/github/stars/fusioninventory/fusioninventory-agent?style=social&color=white)](https://github.com/fusioninventory/fusioninventory-agent/stargazers)  
+- **[FusionInventory Agent](https://github.com/fusioninventory/fusioninventory-agent)** [![GitHub_Stars](https://img.shields.io/github/stars/fusioninventory/fusioninventory-agent?style=social&color=white)](https://github.com/fusioninventory/fusioninventory-agent/stargazers)  
   📡 *Open discovery and inventory agent capable of SNMP network sweeps, local machine audits, and automated software deployment.*
 
 ---
