@@ -28,7 +28,7 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## Table of Contents
 
-- [SaaS/Hosted Platforms](#saas-products)
+- [SaaS/Hosted Platforms](#saashosted-platforms)
 
 - [Open-Source GitHub Projects](#open-source-github-projects)
 
@@ -40,63 +40,18 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## SaaS/Hosted Platforms
 
-- **[Flexera](https://www.flexera.com/)**  
-
-  Enterprise ITAM and technology intelligence platform covering software asset management, hardware, cloud spend, and license optimization (includes Snow capabilities after acquisition).
-
-
-
-- **[Snow Software](https://www.snowsoftware.com/)**  
-
-  Specialized software asset management (SAM) and ITAM platform known for deep software recognition libraries and license compliance.
-
-
-
-- **[Device42](https://www.device42.com/)**  
-
-  Discovery-driven ITAM and CMDB platform strong in data-center, hybrid, and dependency mapping use cases.
-
-
-
-- **[Asset Panda](https://www.assetpanda.com/)**  
-
-  Flexible, cloud-based asset tracking platform popular for customizable workflows across IT and non-IT assets.
-
-
-
-- **[ManageEngine AssetExplorer](https://www.manageengine.com/products/asset-explorer/)**  
-
-  IT asset management solution from ManageEngine with discovery, inventory, license tracking, and integration into the broader ManageEngine suite.
-
-
-
-- **[InvGate](https://invgate.com/)**  
-
-  ITAM and service-management oriented platform focused on asset visibility and operational efficiency.
-
-
-
-- **[Freshservice](https://www.freshworks.com/freshservice/)**  
-
-  IT service management platform with solid asset management capabilities for mid-market teams.
-
-
-
-- **[SysAid](https://www.sysaid.com/)**  
-
-  ITSM platform that includes asset management, inventory, and related IT operations features.
-
-
-
-- **[ServiceNow ITAM](https://www.servicenow.com/products/it-asset-management.html)**  
-
-  Enterprise IT asset management tightly integrated with the ServiceNow ITSM and CMDB ecosystem.
-
-
-
-- **[Lansweeper](https://www.lansweeper.com/)**  
-
-  Network discovery and IT asset intelligence platform known for agentless scanning and detailed hardware/software inventory.
+| Platform | Description | Starting Pricing | Free Tier / Trial Limits |
+| :--- | :--- | :--- | :--- |
+| **[Flexera](https://www.flexera.com/)** | Enterprise ITAM and technology intelligence platform covering SAM, hardware, cloud spend, and license optimization. | ~$2,500/month (Annual plans start at ~$30,000–$50,000/year based on spend under management) | 14-day free trial (available for select modules like Flexera One Select; custom PoC on request; no permanent free tier) |
+| **[Snow Software](https://www.snowsoftware.com/)** | Specialized SAM and ITAM platform (part of Flexera) with deep software recognition libraries and compliance audits. | ~$1,200/month (Base tiers start at ~$14,400/year or ~$2.50–$5.00/device/year in volume) | 30-day proof-of-concept (PoC) evaluation via sales; 14-day trial for Snow Commander (no permanent free tier) |
+| **[Device42](https://www.device42.com/)** | Discovery-driven ITAM and CMDB platform strong in data-center, hybrid infrastructure, and dependency mapping. | $120/month ($1,449/year starting tier for up to 100 devices; ~$20–$25/device/year) | 14-day free trial (up to 100 devices scanned, no credit card required; no permanent free tier) |
+| **[Asset Panda](https://www.assetpanda.com/)** | Flexible, cloud-based asset tracking platform with customizable workflows across IT and fixed physical assets. | $125/month (Starts at $1,500/year for up to 250 assets with unlimited users) | 14-day free trial (full access to core tracking features, no credit card required; no permanent free tier) |
+| **[ManageEngine AssetExplorer](https://www.manageengine.com/products/asset-explorer/)** | Comprehensive ITAM tool covering auto-discovery, software license compliance, and CMDB integration. | $955/year (On-premises, 250 assets) or $115/month ($1,245/year Cloud, 250 assets) | Free forever plan (up to 25 nodes on-premises / 50 nodes cloud); 30-day free trial (up to 250 nodes) |
+| **[InvGate](https://invgate.com/)** | ITAM (InvGate Insight) and ITSM platform focused on asset visibility, network discovery, and change tracking. | $0.21/node/month (Insight ITAM, billed annually) or $17/agent/month ($1,499/year for up to 5 Service Desk agents) | 30-day free trial (full access to network discovery and asset inventory features; no permanent free tier) |
+| **[Freshservice](https://www.freshworks.com/freshservice/)** | IT service and asset management platform with automated discovery, contract management, and CMDB integration. | $19/agent/month (Starter tier, billed annually) or $29/agent/month (billed monthly) | 14-day free trial (full access to ITSM/ITAM features, up to 100 asset units, no credit card required; no permanent free tier) |
+| **[SysAid](https://www.sysaid.com/)** | ITSM platform including comprehensive IT asset management, network discovery, and AI-driven service desk workflows. | $89/agent/month (Professional tier, billed annually, includes up to 250 assets) | 14-day free trial (access to asset management and service automation; no permanent free tier) |
+| **[ServiceNow ITAM](https://www.servicenow.com/products/it-asset-management.html)** | Enterprise hardware and software asset management natively integrated with the ServiceNow CMDB ecosystem. | ~$100/user/month (Estimated fulfiller seat starting tier; annual enterprise commitments typically start at $10,000+) | Free Personal Developer Instance (PDI with full sandbox ITAM/SAM access for non-production use); 30-day enterprise guided PoC |
+| **[Lansweeper](https://www.lansweeper.com/)** | Network discovery and IT asset intelligence platform known for agentless scanning and deep hardware/software inventory. | $239/month ($2,868/year Starter plan for up to 2,000 assets, unlimited users) | Free forever plan (up to 100 assets scanned, limited features); 14-day free trial (unlimited assets with full features) |
 
 
 
